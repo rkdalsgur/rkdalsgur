@@ -3,7 +3,7 @@
   강민혁의 깃허브 페이지입니다.
 </h1>
 
-<a href="https://github.com/rkdalsgur/midproject">
+<a href="https://midproject.vercel.app/index.html">
 <img width="200px" height="35px"src="https://img.shields.io/badge/개인 페이지 바로가기-ff00ff?style=flat-square&logo=t&logoColor=white"/>
 </a>
 
